@@ -52,7 +52,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "Repo Link",
-      "value": "https://github.com/CyberUserBot/CyberUserBot",
+      "value": "@spykids_SQL",
       "required": true
     },
     "COUNTRY": {
@@ -163,7 +163,7 @@
     },
     "DEFAULT_BIO": {
       "description": "# Don`t edit this.",
-      "value": "@TheCyberUserBot",
+      "value": "@Spykids_SQL",
       "required": false
     },
     "G_DRIVE_CLIENT_SECRET": {
@@ -199,7 +199,7 @@
     },
     "PAKET_ISMI": {
       "description": "Specify the syntax command package name. The package name will be: The value you give @UserName is 1",
-      "value": "@TheCyberUserBot Paketi",
+      "value": "@Spykids_sQL Paketi",
       "required": false
     },
     "OTOMATIK_KATILMA": {
