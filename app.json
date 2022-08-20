@@ -10,9 +10,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/CyberUserBot/CyberUserBot",
-  "website":   "https://cyberuserbot.ml",
-  "success_url": "https://t.me/TheCyberSupport",
+  "repository": "https://github.com/samurai-maker/syberubot",
   "stack": "container",
   "env": {
     "API_KEY": {
